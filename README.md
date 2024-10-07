@@ -22,7 +22,7 @@ A continuación se muestran algunas capturas de pantalla:
    ![Post desde Postman](img/usando-postman.png)
 
 4. **Solicitud GetId:**
-   ![Detalle de registro](img/prueba-post-body.png.png)
+   ![Detalle de registro](img/prueba-post-body.png)
 
 5. **Haciendo un Delete:**
    ![Delete con Postman](img/delete-postman.png)
